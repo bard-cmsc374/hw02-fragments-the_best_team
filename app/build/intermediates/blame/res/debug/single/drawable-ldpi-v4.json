@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
-        "source": "/home/sven/AndroidStudioProjects/ToDoList_lab1/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "C:\\home\\sven\\AndroidStudioProjects\\ToDoList_lab1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\home\\sven\\AndroidStudioProjects\\ToDoList_lab1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     }
 ]
