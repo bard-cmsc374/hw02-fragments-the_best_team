@@ -8,6 +8,50 @@ package edu.bard.todolist_lab1;
 
   and also from the moodle fragment pdf.
 
+
+CMSC 374
+HW #2 Fragments: Feedback
+
+Names: Alexzandra and Mubasil
+
+     Rubric
+----------------------------------------------------------
+20	1. App functions correctly from end user perspective.
+10	2. Fragments are correctly created.
+0	3. Fragments share information on the adapter arraylist.
+10	4. Code is clearly commented.
+20	5. Code is readable and well constructed.
+
+Score: 60
+
+
+----------------
+
+Comments
+
+My comments in your code are marked with XX in a comment.
+
+
+
+1. App functions correctly from end user perspective. YES, resources used, too.
+
+2. Fragments are correctly created.
+You create the listview fragment, but do not bind it with the item
+view fragment.
+
+3. Fragments share information on the adapter arraylist.   Using
+statics is not quite the right approach, since it's too limiting.
+
+
+4. Code is clearly commented at most spots.
+
+5. Code is readable and well constructed.
+Yes...good throughout, though too much commented-out code you should
+just delete.
+
+
+
+
  */
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;

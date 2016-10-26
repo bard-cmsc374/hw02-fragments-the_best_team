@@ -2,18 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="/Users/sven/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
         revision="24.0.0"
-        sha1="4a63887e622b74c0a36618c47005a83fcd38d6d7">
-        <dex dex="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea1ffa2924c5d0704e8c51f83325d791b3d92742/classes.dex" />
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_b50cc32ea78283831d0c6aa9150052b59bd3b3d6.jar" />
     </item>
     <item
-        jar="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        jar="/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="false"
         revision="24.0.0"
-        sha1="9d9fefbf934462157625a74329e9f52b060c2db4">
-        <dex dex="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a49d0c5c2b0f52460175ea76e5e60037fe3694b/classes.dex" />
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.0_c0f4da8c683b1457990838f21763f9dfdd832e90.jar" />
+    </item>
+    <item
+        jar="/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.0_13a2d0c0f7df24cc4321c83158f40a4f9915b289.jar" />
     </item>
 
 </items>

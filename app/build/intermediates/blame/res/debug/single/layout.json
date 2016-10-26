@@ -1,14 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "C:\\home\\sven\\AndroidStudioProjects\\ToDoList_lab1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\home\\sven\\AndroidStudioProjects\\ToDoList_lab1\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/C:\\home\\sven\\AndroidStudioProjects\\ToDoList_lab1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/C:\\home\\sven\\AndroidStudioProjects\\ToDoList_lab1\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
-        "source": "C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\src\\main\\res\\layout\\listview.xml"
+        "merged": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/app/build/intermediates/res/merged/debug/layout/listview.xml",
+        "source": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/app/src/main/res/layout/listview.xml"
+    },
+    {
+        "merged": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "/Users/sven/courses/374/ASgrading/hw02-fragments-the_best_team/C:\\Users\\Mubasil\\Documents\\hw02-fragments-the_best_team\\app\\src\\main\\res\\layout\\listview.xml"
     }
 ]
